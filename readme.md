@@ -29,10 +29,15 @@
 
 ## 💻 Screenshot
 
-<div style="text-align: center">
+<div align="center">
 
-  <img loading="lazy" src="./img/screenshot-mobile.png" />
+  #### Mobile
+  <img loading="lazy" src="./img/screenshot-mobile.png" style="height: 500px"/>
+  
+  #### Tablet
   <img loading="lazy" src="./img/screenshot-tablet.png" style="width: 100%" />
+  
+  #### Desktop
   <img loading="lazy" src="./img/screenshot-desktop.png" style="width: 100%" />
 
 </div>
